@@ -9,7 +9,7 @@ Plain static business-card site for GitHub Pages.
 - Schedule meeting: <https://calendly.com/lukaskarge>
 - Obsphera.ai: <https://obsphera.ai>
 - pixlbox.io: <https://pixlbox.io>
-- Swarm.ai / TUM PRS: <https://www.mos.ed.tum.de/en/prs/home/>
+- Swarm.ai / TUM PF: <https://www.asg.ed.tum.de/pf/home/>
 
 ## Publish With GitHub Pages
 
