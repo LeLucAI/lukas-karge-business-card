@@ -1,6 +1,10 @@
 # Dr. Lukas Karge Business Card
 
-Plain static business-card site for GitHub Pages.
+Static personal website for GitHub Pages. Dark, portrait-led design inspired by phils-ventures.com, with About, Ventures and Contact sections.
+
+## Local preview
+
+Run `python3 -m http.server 4173` and open `http://localhost:4173`. No build step or external runtime dependencies are required. The Anton typeface is self-hosted in `assets/fonts` with its SIL Open Font License.
 
 ## Links
 
