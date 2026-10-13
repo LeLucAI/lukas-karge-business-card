@@ -1,6 +1,6 @@
 # Dr. Lukas Karge Business Card
 
-Static personal website for GitHub Pages. Dark, portrait-led design inspired by phils-ventures.com, with About, Ventures and Contact sections.
+Static personal website for GitHub Pages. Dark, portrait-led design inspired by phils-ventures.com, with About, Projects & Ventures and Contact sections.
 
 ## Local preview
 
